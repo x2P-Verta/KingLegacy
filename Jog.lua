@@ -1,5 +1,3 @@
-
-
 local autogumb = false
 local autogumc = false
 
