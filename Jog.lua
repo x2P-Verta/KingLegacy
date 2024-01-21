@@ -1,13 +1,4 @@
-getgenv().AutoBountyConfig = {
-    ["Tool Name"] = "Legacy Pose"
-}
-function AutoRemoteB()
-  
-end
 
-function AutoRemoteC()
-
-end
 
 local autogumb = false
 local autogumc = false
